@@ -7,3 +7,6 @@ EPath is a library that simplifies access to essential system paths and provides
 - [ ] File manipulation utilities
 - [x] String-based path representation
 - [ ] Streamlined development for file system interactions
+
+EPath offers a unified interface for accessing important system locations and performing file operations, making it easier for developers to manage file system tasks in their projects.
+
